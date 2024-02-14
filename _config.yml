@@ -1,6 +1,5 @@
 title: Rizwan Odayar
-logo: /assets/img/headshot_cirlce.png
-logo: /assets/img/headshot_circle.png
+#logo: /assets/img/headshot_cirlce.png
 #description: text below image
-show_downloads: true
+#show_downloads: true
 theme: jekyll-theme-minimal
