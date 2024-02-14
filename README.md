@@ -1,4 +1,4 @@
-# Medical Docter at government Hospital and General practitioner
+# Medical Doctor at government Hospital and General practitioner
 
 ### Education
 M.B.B.S(Peradeniya), DFM(Colombo)
